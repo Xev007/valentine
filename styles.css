@@ -1,0 +1,51 @@
+body {
+    background-color: #ffe6e6;
+    background-image: url('https://slidescorner.com/wp-content/uploads/2023/01/02-Aesthetic-Valentines-Day-Wallpapers-With-Cute-Hearts-Free-For-PPT-Backgrounds-by-SlidesCorner.com_.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+.container {
+    margin-top: 50px;
+}
+h1 {
+    color: #ff4d4d;
+}
+.valentine-gif {
+    width: 150px;
+    height: auto;
+    margin-top: 10px;
+}
+.buttons {
+    margin-top: 10px;
+    margin-left: -120px;
+}
+.btn {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.yes-btn {
+    background-color: #ffb3b3;
+}
+.no-btn {
+    background-color: #ff6666;
+    position: absolute;
+}
+.date-message h1 {
+    color: #ff4d4d;
+    margin-top: 50px;
+}
+.date-message img {
+    width: 500px;
+    height: auto;
+    margin-top: 10px;
+}
